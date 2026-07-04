@@ -22,5 +22,5 @@ Feel free to reach out for collaborations or just a friendly chat!
 ---
 ## 📖 Description
 
-Kartik Shivshetty is a passionate developer and technology enthusiast dedicated to creating innovative solutions. With expertise in software development and a commitment to continuous learning, Kartik actively contributes to various projects and seeks opportunities for collaboration.
+I Kartik Shivshetty am a passionate developer and technology enthusiast dedicated to creating innovative solutions. With expertise in software development and a commitment to continuous learning, I actively contributes to various projects and seeks opportunities for collaboration.
 
